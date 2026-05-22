@@ -65,7 +65,7 @@ export default function HomePage() {
       </section>
 
       {/* LOGO CLOUD */}
-      <section className="relative py-16 sm:py-20">
+      <section className="relative py-10 sm:py-20">
         <div className="container-wide">
           <LogoCloud />
         </div>

@@ -166,7 +166,7 @@ a {
   }
 
   .section {
-    @apply relative py-20 sm:py-28;
+    @apply relative py-10 sm:py-28;
   }
 
   .section-heading {

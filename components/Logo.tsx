@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import Favicon from "@/app/logo.PNG";
+import Favicon from "@/app/logo.png";
 import Image from 'next/image';
 
 export default function Logo({
